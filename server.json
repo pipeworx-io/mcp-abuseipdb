@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/abuseipdb",
   "title": "Abuseipdb",
   "description": "AbuseIPDB MCP — wraps AbuseIPDB v2 API (api.abuseipdb.com/api/v2)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/abuseipdb",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-abuseipdb",
