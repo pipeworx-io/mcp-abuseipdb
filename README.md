@@ -2,7 +2,7 @@
 
 AbuseIPDB is a community-curated database of IPs reported for malicious activity (brute force, DDoS, web spam, credential stuffing, etc.). ~150M+ historical reports across millions of IPs. Each IP gets a confidence score (0-100) based on report volume, recency, and reporter trust. Used by sysadmins, security teams, and AI agents doing threat intelligence.
 
-Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1679+ live data sources.
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1683+ live data sources.
 
 ## Why this matters for AI agents
 
@@ -103,7 +103,7 @@ directly, instead of just this one's:
 }
 ```
 
-Both URLs reach the same gateway and the same 1679+ data sources. The
+Both URLs reach the same gateway and the same 1683+ data sources. The
 only difference is which pack's tools are listed **directly**; `ask_pipeworx`
 reaches all of them from either one.
 

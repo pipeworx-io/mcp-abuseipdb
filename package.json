@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-abuseipdb",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "AbuseIPDB MCP — wraps AbuseIPDB v2 API (api.abuseipdb.com/api/v2)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-1879cb9f8669a840091ed368545cb36bbba761dbe792c78af979d5b5ff3c831a",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-ee7a3a68f9f7d6c669655b6d96e47bb2048ed6ffcb31007185ac2ded57881032",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
