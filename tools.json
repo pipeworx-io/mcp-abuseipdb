@@ -1,6 +1,6 @@
 [
   {
-    "name": "check_ip",
+    "name": "abuseipdb_check_ip",
     "description": "Check an IP address against the AbuseIPDB database. Returns abuse confidence score (0-100), ISP, usage type, country, number of reports, and last reported date. Example: check_ip(\"8.8.8.8\").",
     "inputSchema": {
       "type": "object",

@@ -1,7 +1,7 @@
 {
   "name": "@pipeworx/mcp-abuseipdb",
-  "version": "0.2.1",
-  "description": "AbuseIPDB MCP — wraps AbuseIPDB v2 API (api.abuseipdb.com/api/v2)",
+  "version": "0.2.2",
+  "description": "Unofficial AbuseIPDB MCP — wraps AbuseIPDB v2 API (api.abuseipdb.com/api/v2)",
   "type": "module",
   "main": "lib/index.js",
   "exports": {
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "abuseipdb",
     "gatewaySlug": "abuseipdb",
-    "sourceHash": "v1-854cb3678bd03a4cdeb7c8d0100296897bc6f5bed52b4782df04ebbb27e5b6dc",
-    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
+    "sourceHash": "v1-61178d78b20d4cf8d7b93ba235247ebf17934dfbd394f3ddc4bbcab8d79821a7",
+    "sourceCommit": "874331b0c46b151f9264bd14840631427a7721c1"
   }
 }
